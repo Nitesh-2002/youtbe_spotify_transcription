@@ -1,0 +1,13 @@
+Flask
+functions-framework
+pocketsphinx
+youtube-transcript-api
+SpeechRecognition
+transformers
+soundfile
+spotipy
+langdetect
+vosk
+pydub
+# tensorflow
+torch
